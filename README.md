@@ -1,6 +1,8 @@
 # Cookies
 Cookie inventory files used in prog24178
 
+API Documentation: http://www-acad.sheridanc.on.ca/~jollymor/prog24178/cookie/
+
 Summer 2016: 
 Cookies enum
 - enumeration with cookie id, name, price

@@ -3,6 +3,10 @@ Cookie inventory files used in prog24178
 
 API Documentation: http://www-acad.sheridanc.on.ca/~jollymor/prog24178/cookie/
 
+Summer 2018:
+- added cookies to Cookies enum
+- added documentation for Cookie enum values
+
 Summer 2016: 
 
 Cookies enum

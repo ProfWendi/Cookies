@@ -6,6 +6,7 @@ API Documentation: http://www-acad.sheridanc.on.ca/~jollymor/prog24178/cookie/
 Summer 2018:
 - added cookies to Cookies enum
 - added documentation for Cookie enum values
+- added cookie accessor/mutator to CookieInventoryItem so it works better with Java Web Apps
 
 Summer 2016: 
 
